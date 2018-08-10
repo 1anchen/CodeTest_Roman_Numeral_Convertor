@@ -268,8 +268,8 @@ public class RomanNumeralTest {
     }
 
     @Test
-    public void canConvertNumberForty(){
-        Assert.assertEquals("XL", romanNumeral.convertNumberToRomanNumeral(40));
+    public void canConvertNumberFifty(){
+        Assert.assertEquals("L", romanNumeral.convertNumberToRomanNumeral(50));
     }
 
 

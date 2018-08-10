@@ -42,13 +42,9 @@ public class RomanNumeral {
 //            number-=90;
 //        }
 //
-//        while(number>=50){
-//            romanNumeral += "L";
-//            number-=50;
-//        }
+//
 
-//
-//
+        number = convertFifty(number);
         number = convertForty(number);
         number = convertTen(number);
         number = convertNine(number);
@@ -107,6 +103,14 @@ public class RomanNumeral {
         while(number >=40){
             this.romanNumeral += "XL";
             number -=40;
+        }
+        return number;
+    }
+
+    public int convertFifty(int number){
+        while(number >=50){
+            this.romanNumeral += "L";
+            number -=50;
         }
         return number;
     }
