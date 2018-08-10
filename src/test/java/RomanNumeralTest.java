@@ -238,18 +238,18 @@ public class RomanNumeralTest {
     }
 
     @Test
-    public void canConvertNumberThirtyFour(){
-        Assert.assertEquals("XXXIV", romanNumeral.convertNumberToRomanNumeral(34));
+    public void canConvertNumberFortyFour(){
+        Assert.assertEquals("XLIV", romanNumeral.convertNumberToRomanNumeral(44));
     }
 
     @Test
-    public void canConvertNumberThirtyFive(){
-        Assert.assertEquals("XXXV", romanNumeral.convertNumberToRomanNumeral(35));
+    public void canConvertNumberFortyFive(){
+        Assert.assertEquals("XLV", romanNumeral.convertNumberToRomanNumeral(45));
     }
 
     @Test
-    public void canConvertNumberThirtySix(){
-        Assert.assertEquals("XXXVI", romanNumeral.convertNumberToRomanNumeral(36));
+    public void canConvertNumberFortySix(){
+        Assert.assertEquals("XLVI", romanNumeral.convertNumberToRomanNumeral(46));
     }
 
     @Test
