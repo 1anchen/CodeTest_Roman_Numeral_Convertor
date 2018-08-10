@@ -272,6 +272,107 @@ public class RomanNumeralTest {
         Assert.assertEquals("L", romanNumeral.convertNumberToRomanNumeral(50));
     }
 
+    @Test
+    public void canConvertNumberFiftyOne(){
+        Assert.assertEquals("LI", romanNumeral.convertNumberToRomanNumeral(51));
+    }
+
+    @Test
+    public void canConvertNumberFiftyTwo(){
+        Assert.assertEquals("LII", romanNumeral.convertNumberToRomanNumeral(52));
+    }
+
+    @Test
+    public void canConvertNumberFiftyThree(){
+        Assert.assertEquals("LIII", romanNumeral.convertNumberToRomanNumeral(53));
+    }
+
+    @Test
+    public void canConvertNumberFiftyFour(){
+        Assert.assertEquals("LIV", romanNumeral.convertNumberToRomanNumeral(54));
+    }
+
+    @Test
+    public void canConvertNumberFiftyFive(){
+        Assert.assertEquals("LV", romanNumeral.convertNumberToRomanNumeral(55));
+    }
+
+    @Test
+    public void canConvertNumberFiftySix(){
+        Assert.assertEquals("LVI", romanNumeral.convertNumberToRomanNumeral(56));
+    }
+
+    @Test
+    public void canConvertNumberFiftySeven(){
+        Assert.assertEquals("LVII", romanNumeral.convertNumberToRomanNumeral(57));
+    }
+
+    @Test
+    public void canConvertNumberFiftyEight(){
+        Assert.assertEquals("LVIII", romanNumeral.convertNumberToRomanNumeral(58));
+    }
+
+    @Test
+    public void canConvertNumberFiftyNine(){
+        Assert.assertEquals("LIX", romanNumeral.convertNumberToRomanNumeral(59));
+    }
+
+    @Test
+    public void canConvertNumberSixty(){
+        Assert.assertEquals("LX", romanNumeral.convertNumberToRomanNumeral(60));
+    }
+
+    @Test
+    public void canConvertNumberFortyOne(){
+        Assert.assertEquals("XLI", romanNumeral.convertNumberToRomanNumeral(41));
+    }
+
+    @Test
+    public void canConvertNumberFortyTwo(){
+        Assert.assertEquals("XLII", romanNumeral.convertNumberToRomanNumeral(42));
+    }
+
+    @Test
+    public void canConvertNumberFortyThree(){
+        Assert.assertEquals("XLIII", romanNumeral.convertNumberToRomanNumeral(43));
+    }
+
+    @Test
+    public void canConvertNumberFortyFour(){
+        Assert.assertEquals("XLIV", romanNumeral.convertNumberToRomanNumeral(44));
+    }
+
+    @Test
+    public void canConvertNumberFortyFive(){
+        Assert.assertEquals("XLV", romanNumeral.convertNumberToRomanNumeral(45));
+    }
+
+    @Test
+    public void canConvertNumberFortySix(){
+        Assert.assertEquals("XLVI", romanNumeral.convertNumberToRomanNumeral(46));
+    }
+
+    @Test
+    public void canConvertNumberFortySeven(){
+        Assert.assertEquals("XLVII", romanNumeral.convertNumberToRomanNumeral(47));
+    }
+
+    @Test
+    public void canConvertNumberFortyEight(){
+        Assert.assertEquals("XLVIII", romanNumeral.convertNumberToRomanNumeral(48));
+    }
+
+    @Test
+    public void canConvertNumberFortyNine(){
+        Assert.assertEquals("XLIX", romanNumeral.convertNumberToRomanNumeral(49));
+    }
+
+    @Test
+    public void canConvertNumberFifty(){
+        Assert.assertEquals("L", romanNumeral.convertNumberToRomanNumeral(50));
+    }
+
+
 
 
 
