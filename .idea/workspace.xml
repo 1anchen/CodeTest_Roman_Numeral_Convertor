@@ -34,8 +34,8 @@
       <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="251" column="78" lean-forward="false" selection-start-line="251" selection-start-column="78" selection-end-line="251" selection-end-column="78" />
+            <state relative-caret-position="272">
+              <caret line="266" column="78" lean-forward="false" selection-start-line="266" selection-start-column="78" selection-end-line="266" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -80,8 +80,8 @@
                 <element signature="e#6250#6251#0" expanded="true" />
                 <element signature="e#6305#6306#0" expanded="true" />
                 <element signature="e#6393#6394#0" expanded="true" />
-                <element signature="e#7615#7616#0" expanded="true" />
-                <element signature="e#7702#7703#0" expanded="true" />
+                <element signature="e#7609#7610#0" expanded="true" />
+                <element signature="e#7696#7697#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -808,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="251" column="78" lean-forward="false" selection-start-line="251" selection-start-column="78" selection-end-line="251" selection-end-column="78" />
+        <state relative-caret-position="272">
+          <caret line="266" column="78" lean-forward="false" selection-start-line="266" selection-start-column="78" selection-end-line="266" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -854,8 +854,8 @@
             <element signature="e#6250#6251#0" expanded="true" />
             <element signature="e#6305#6306#0" expanded="true" />
             <element signature="e#6393#6394#0" expanded="true" />
-            <element signature="e#7615#7616#0" expanded="true" />
-            <element signature="e#7702#7703#0" expanded="true" />
+            <element signature="e#7609#7610#0" expanded="true" />
+            <element signature="e#7696#7697#0" expanded="true" />
           </folding>
         </state>
       </provider>
