@@ -27,12 +27,9 @@ public class RomanNumeral {
 //            number-=500;
 //        }
 //
-//        while(number>=400){
-//            romanNumeral += "CD";
-//            number-=400;
-//        }
-//
-//
+
+
+        number = convertFourHandred(number);
         number = convertHandred(number);
         number = convertNinety(number);
         number = convertFifty(number);
@@ -123,6 +120,14 @@ public class RomanNumeral {
         return number;
     }
 
+
+    public int convertFourHandred(int number){
+        while(number >=400){
+            this.romanNumeral += "CD";
+            number -=400;
+        }
+        return number;
+    }
 
 
 
