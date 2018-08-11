@@ -7,35 +7,23 @@ public class RomanNumeral {
 
     }
     public String convertNumberToRomanNumeral(int number){
-
         this.romanNumeral = "" ;
 
-        if (number > 0  && number < 3999) {
+        if (number > 0  && number < 4000) {
 
-//        while(number>=1000){
-//            romanNumeral += "M";
-//            number-=1000;
-//        }
-//
-//        while(number>=900){
-//            romanNumeral += "CM";
-//            number-=900;
-//        }
-//
-//
-//
-
-        number = convertFiveHandred(number);
-        number = convertFourHandred(number);
-        number = convertHandred(number);
-        number = convertNinety(number);
-        number = convertFifty(number);
-        number = convertForty(number);
-        number = convertTen(number);
-        number = convertNine(number);
-        number = convertFive(number);
-        number = convertFour(number);
-        convertOneToThree(number);
+          number = convertThousand(number);
+          number = convertNineHandred(number);
+          number = convertFiveHandred(number);
+          number = convertFourHandred(number);
+          number = convertHandred(number);
+          number = convertNinety(number);
+          number = convertFifty(number);
+          number = convertForty(number);
+          number = convertTen(number);
+          number = convertNine(number);
+          number = convertFive(number);
+          number = convertFour(number);
+          convertOneToThree(number);
 
         }else{
             romanNumeral ="Not Defined";
@@ -130,6 +118,23 @@ public class RomanNumeral {
         while(number >=500){
             this.romanNumeral += "D";
             number -=500;
+        }
+        return number;
+    }
+
+
+    public int convertNineHandred(int number){
+        while(number >=900){
+            this.romanNumeral += "CM";
+            number -=900;
+        }
+        return number;
+    }
+
+    public int convertThousand(int number){
+        while(number >=1000){
+            this.romanNumeral += "M";
+            number -=1000;
         }
         return number;
     }

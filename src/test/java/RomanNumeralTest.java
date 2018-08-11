@@ -18,9 +18,20 @@ public class RomanNumeralTest {
     }
 
     @Test
+    public void cannotConvertNegativeNumber(){
+        Assert.assertEquals("Not Defined", romanNumeral.convertNumberToRomanNumeral(-10));
+    }
+
+    @Test
     public void cannotConvertNumberFourThousand(){
         Assert.assertEquals("Not Defined", romanNumeral.convertNumberToRomanNumeral(4000));
     }
+
+    @Test
+    public void cannotConvertNumberFourThousandAndOne(){
+        Assert.assertEquals("Not Defined", romanNumeral.convertNumberToRomanNumeral(4001));
+    }
+
 
     @Test
     public void canConvertNumberOne(){
@@ -518,423 +529,593 @@ public class RomanNumeralTest {
     }
 
     @Test
-    public void canConvertNumberOneHandred(){
+    public void canConvertNumberOneHundred(){
         Assert.assertEquals("C", romanNumeral.convertNumberToRomanNumeral(100));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndOne(){
+    public void canConvertNumberOneHundredAndOne(){
         Assert.assertEquals("CI", romanNumeral.convertNumberToRomanNumeral(101));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndfour(){
+    public void canConvertNumberOneHundredAndfour(){
         Assert.assertEquals("CIV", romanNumeral.convertNumberToRomanNumeral(104));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndFive(){
+    public void canConvertNumberOneHundredAndFive(){
         Assert.assertEquals("CV", romanNumeral.convertNumberToRomanNumeral(105));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndEight(){
+    public void canConvertNumberOneHundredAndEight(){
         Assert.assertEquals("CVIII", romanNumeral.convertNumberToRomanNumeral(108));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTen(){
+    public void canConvertNumberOneHundredAndTen(){
         Assert.assertEquals("CX", romanNumeral.convertNumberToRomanNumeral(110));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTwelve(){
+    public void canConvertNumberOneHundredAndTwelve(){
         Assert.assertEquals("CXII", romanNumeral.convertNumberToRomanNumeral(112));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndSixteen(){
+    public void canConvertNumberOneHundredAndSixteen(){
         Assert.assertEquals("CXVI", romanNumeral.convertNumberToRomanNumeral(116));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTwenty(){
+    public void canConvertNumberOneHundredAndTwenty(){
         Assert.assertEquals("CXX", romanNumeral.convertNumberToRomanNumeral(120));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTwentyThree(){
+    public void canConvertNumberOneHundredAndTwentyThree(){
         Assert.assertEquals("CXXIII", romanNumeral.convertNumberToRomanNumeral(123));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTHirtyFive(){
+    public void canConvertNumberOneHundredAndThirtyFive(){
         Assert.assertEquals("CXXXV", romanNumeral.convertNumberToRomanNumeral(135));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndTHirtyNine(){
+    public void canConvertNumberOneHundredAndTHirtyNine(){
         Assert.assertEquals("CXXXIX", romanNumeral.convertNumberToRomanNumeral(139));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndFortySeven(){
+    public void canConvertNumberOneHundredAndFortySeven(){
         Assert.assertEquals("CXLVII", romanNumeral.convertNumberToRomanNumeral(147));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndFiftyFour(){
+    public void canConvertNumberOneHundredAndFiftyFour(){
         Assert.assertEquals("CLIV", romanNumeral.convertNumberToRomanNumeral(154));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndSixtyTwo(){
+    public void canConvertNumberOneHundredAndSixtyTwo(){
         Assert.assertEquals("CLXII", romanNumeral.convertNumberToRomanNumeral(162));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndSeventyNine(){
+    public void canConvertNumberOneHundredAndSeventyNine(){
         Assert.assertEquals("CLXXIX", romanNumeral.convertNumberToRomanNumeral(179));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndEightySix(){
+    public void canConvertNumberOneHundredAndEightySix(){
         Assert.assertEquals("CLXXXVI", romanNumeral.convertNumberToRomanNumeral(186));
     }
 
     @Test
-    public void canConvertNumberOneHandredAndNinetyOne(){
+    public void canConvertNumberOneHundredAndNinetyOne(){
         Assert.assertEquals("CXCI", romanNumeral.convertNumberToRomanNumeral(191));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndTwo(){
+    public void canConvertNumberTwoHundredAndTwo(){
         Assert.assertEquals("CCII", romanNumeral.convertNumberToRomanNumeral(202));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndThirteen(){
+    public void canConvertNumberTwoHundredAndThirteen(){
         Assert.assertEquals("CCXIII", romanNumeral.convertNumberToRomanNumeral(213));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndTwentyFour(){
+    public void canConvertNumberTwoHundredAndTwentyFour(){
         Assert.assertEquals("CCXXIV", romanNumeral.convertNumberToRomanNumeral(224));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndThirtyFive(){
+    public void canConvertNumberTwoHundredAndThirtyFive(){
         Assert.assertEquals("CCXXXV", romanNumeral.convertNumberToRomanNumeral(235));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndFortySix(){
+    public void canConvertNumberTwoHundredAndFortySix(){
         Assert.assertEquals("CCXLVI", romanNumeral.convertNumberToRomanNumeral(246));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndFiftySeven(){
+    public void canConvertNumberTwoHundredAndFiftySeven(){
         Assert.assertEquals("CCLVII", romanNumeral.convertNumberToRomanNumeral(257));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndSixtyEight(){
+    public void canConvertNumberTwoHundredAndSixtyEight(){
         Assert.assertEquals("CCLXVIII", romanNumeral.convertNumberToRomanNumeral(268));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAnSeventyNine(){
+    public void canConvertNumberTwoHundredAnSeventyNine(){
         Assert.assertEquals("CCLXXIX", romanNumeral.convertNumberToRomanNumeral(279));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndEighty(){
+    public void canConvertNumberTwoHundredAndEighty(){
         Assert.assertEquals("CCLXXX", romanNumeral.convertNumberToRomanNumeral(280));
     }
 
     @Test
-    public void canConvertNumberTwoHandredAndNinetyOne(){
+    public void canConvertNumberTwoHundredAndNinetyOne(){
         Assert.assertEquals("CCXCI", romanNumeral.convertNumberToRomanNumeral(291));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndTwo(){
+    public void canConvertNumberThreeHundredAndTwo(){
         Assert.assertEquals("CCCII", romanNumeral.convertNumberToRomanNumeral(302));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndThirteen(){
+    public void canConvertNumberThreeHundredAndThirteen(){
         Assert.assertEquals("CCCXIII", romanNumeral.convertNumberToRomanNumeral(313));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndTwentyFour(){
+    public void canConvertNumberThreeHundredAndTwentyFour(){
         Assert.assertEquals("CCCXXIV", romanNumeral.convertNumberToRomanNumeral(324));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndThirtyFive(){
+    public void canConvertNumberThreeHundredAndThirtyFive(){
         Assert.assertEquals("CCCXXXV", romanNumeral.convertNumberToRomanNumeral(335));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndFortySix(){
+    public void canConvertNumberThreeHundredAndFortySix(){
         Assert.assertEquals("CCCXLVI", romanNumeral.convertNumberToRomanNumeral(346));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndFiftySeven(){
+    public void canConvertNumberThreeHundredAndFiftySeven(){
         Assert.assertEquals("CCCLVII", romanNumeral.convertNumberToRomanNumeral(357));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndSixtyEight(){
+    public void canConvertNumberThreeHundredAndSixtyEight(){
         Assert.assertEquals("CCCLXVIII", romanNumeral.convertNumberToRomanNumeral(368));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndSeventyNine(){
+    public void canConvertNumberThreeHundredAndSeventyNine(){
         Assert.assertEquals("CCCLXXIX", romanNumeral.convertNumberToRomanNumeral(379));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndEighty(){
+    public void canConvertNumberThreeHundredAndEighty(){
         Assert.assertEquals("CCCLXXX", romanNumeral.convertNumberToRomanNumeral(380));
     }
 
     @Test
-    public void canConvertNumberThreeHandredAndNinetyOne(){
+    public void canConvertNumberThreeHundredAndNinetyOne(){
         Assert.assertEquals("CCCXCI", romanNumeral.convertNumberToRomanNumeral(391));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndTwo(){
+    public void canConvertNumberFourHundredAndTwo(){
         Assert.assertEquals("CDII", romanNumeral.convertNumberToRomanNumeral(402));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndThirteen(){
+    public void canConvertNumberFourHundredAndThirteen(){
         Assert.assertEquals("CDXIII", romanNumeral.convertNumberToRomanNumeral(413));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndTwentyFour(){
+    public void canConvertNumberFourHundredAndTwentyFour(){
         Assert.assertEquals("CDXXIV", romanNumeral.convertNumberToRomanNumeral(424));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndThirtyFive(){
+    public void canConvertNumberFourHundredAndThirtyFive(){
         Assert.assertEquals("CDXXXV", romanNumeral.convertNumberToRomanNumeral(435));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndFortySix(){
+    public void canConvertNumberFourHundredAndFortySix(){
         Assert.assertEquals("CDXLVI", romanNumeral.convertNumberToRomanNumeral(446));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndFiftySeven(){
+    public void canConvertNumberFourHundredAndFiftySeven(){
         Assert.assertEquals("CDLVII", romanNumeral.convertNumberToRomanNumeral(457));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndSixtyEight(){
+    public void canConvertNumberFourHundredAndSixtyEight(){
         Assert.assertEquals("CDLXVIII", romanNumeral.convertNumberToRomanNumeral(468));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndSeventyOne(){
+    public void canConvertNumberFourHundredAndSeventyOne(){
         Assert.assertEquals("CDLXXI", romanNumeral.convertNumberToRomanNumeral(471));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndEightyTwo(){
+    public void canConvertNumberFourHundredAndEightyTwo(){
         Assert.assertEquals("CDLXXXII", romanNumeral.convertNumberToRomanNumeral(482));
     }
 
     @Test
-    public void canConvertNumberFourHandredAndNinetyThree(){
+    public void canConvertNumberFourHundredAndNinetyThree(){
         Assert.assertEquals("CDXCIII", romanNumeral.convertNumberToRomanNumeral(493));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndFour(){
+    public void canConvertNumberFiveHundredAndFour(){
         Assert.assertEquals("DIV", romanNumeral.convertNumberToRomanNumeral(504));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndFifteen(){
+    public void canConvertNumberFiveHundredAndFifteen(){
         Assert.assertEquals("DXV", romanNumeral.convertNumberToRomanNumeral(515));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndTwentySix(){
+    public void canConvertNumberFiveHundredAndTwentySix(){
         Assert.assertEquals("DXXVI", romanNumeral.convertNumberToRomanNumeral(526));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndThirtySeven(){
+    public void canConvertNumberFiveHundredAndThirtySeven(){
         Assert.assertEquals("DXXXVII", romanNumeral.convertNumberToRomanNumeral(537));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndFortyEight(){
+    public void canConvertNumberFiveHundredAndFortyEight(){
         Assert.assertEquals("DXLVIII", romanNumeral.convertNumberToRomanNumeral(548));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndFiftyNine(){
+    public void canConvertNumberFiveHundredAndFiftyNine(){
         Assert.assertEquals("DLIX", romanNumeral.convertNumberToRomanNumeral(559));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndSixtyOne(){
+    public void canConvertNumberFiveHundredAndSixtyOne(){
         Assert.assertEquals("DLXI", romanNumeral.convertNumberToRomanNumeral(561));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndSeventyTwo(){
+    public void canConvertNumberFiveHundredAndSeventyTwo(){
         Assert.assertEquals("DLXXII", romanNumeral.convertNumberToRomanNumeral(572));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndEightyThree(){
+    public void canConvertNumberFiveHundredAndEightyThree(){
         Assert.assertEquals("DLXXXIII", romanNumeral.convertNumberToRomanNumeral(583));
     }
 
     @Test
-    public void canConvertNumberFiveHandredAndNinetyFour(){
+    public void canConvertNumberFiveHundredAndNinetyFour(){
         Assert.assertEquals("DXCIV", romanNumeral.convertNumberToRomanNumeral(594));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndFive(){
+    public void canConvertNumberSixHundredAndFive(){
         Assert.assertEquals("DCV", romanNumeral.convertNumberToRomanNumeral(605));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndSeventeen(){
+    public void canConvertNumberSixHundredAndSeventeen(){
         Assert.assertEquals("DCXVII", romanNumeral.convertNumberToRomanNumeral(617));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndTwentyNine(){
+    public void canConvertNumberSixHundredAndTwentyNine(){
         Assert.assertEquals("DCXXIX", romanNumeral.convertNumberToRomanNumeral(629));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndThirtyEight(){
+    public void canConvertNumberSixHundredAndThirtyEight(){
         Assert.assertEquals("DCXXXVIII", romanNumeral.convertNumberToRomanNumeral(638));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndFortySix(){
+    public void canConvertNumberSixHundredAndFortySix(){
         Assert.assertEquals("DCXLVI", romanNumeral.convertNumberToRomanNumeral(646));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndFiftyFour(){
+    public void canConvertNumberSixHundredAndFiftyFour(){
         Assert.assertEquals("DCLIV", romanNumeral.convertNumberToRomanNumeral(654));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndSixtyTwo(){
+    public void canConvertNumberSixHundredAndSixtyTwo(){
         Assert.assertEquals("DCLXII", romanNumeral.convertNumberToRomanNumeral(662));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndSeventyOne(){
+    public void canConvertNumberSixHundredAndSeventyOne(){
         Assert.assertEquals("DCLXXI", romanNumeral.convertNumberToRomanNumeral(671));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndEightyThree(){
+    public void canConvertNumberSixHundredAndEightyThree(){
         Assert.assertEquals("DCLXXXIII", romanNumeral.convertNumberToRomanNumeral(683));
     }
 
     @Test
-    public void canConvertNumberSixHandredAndNinetyFive(){
+    public void canConvertNumberSixHundredAndNinetyFive(){
         Assert.assertEquals("DCXCV", romanNumeral.convertNumberToRomanNumeral(695));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndSeven(){
+    public void canConvertNumberSevenHundredAndSeven(){
         Assert.assertEquals("DCCVII", romanNumeral.convertNumberToRomanNumeral(707));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndNineteen(){
+    public void canConvertNumberSevenHundredAndNineteen(){
         Assert.assertEquals("DCCXIX", romanNumeral.convertNumberToRomanNumeral(719));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndTwentyTwo(){
+    public void canConvertNumberSevenHundredAndTwentyTwo(){
         Assert.assertEquals("DCCXXII", romanNumeral.convertNumberToRomanNumeral(722));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndThirtyFive(){
+    public void canConvertNumberSevenHundredAndThirtyFive(){
         Assert.assertEquals("DCCXXXV", romanNumeral.convertNumberToRomanNumeral(735));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndFortyEight(){
+    public void canConvertNumberSevenHundredAndFortyEight(){
         Assert.assertEquals("DCCXLVIII", romanNumeral.convertNumberToRomanNumeral(748));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndFiftyOne(){
+    public void canConvertNumberSevenHundredAndFiftyOne(){
         Assert.assertEquals("DCCLI", romanNumeral.convertNumberToRomanNumeral(751));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndSixtyFour(){
+    public void canConvertNumberSevenHundredAndSixtyFour(){
         Assert.assertEquals("DCCLXIV", romanNumeral.convertNumberToRomanNumeral(764));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndSeventySeven(){
+    public void canConvertNumberSevenHundredAndSeventySeven(){
         Assert.assertEquals("DCCLXXVII", romanNumeral.convertNumberToRomanNumeral(777));
     }
 
     @Test
-    public void canConvertNumberSevenHandredAndNinety(){
+    public void canConvertNumberSevenHundredAndNinety(){
         Assert.assertEquals("DCCXC", romanNumeral.convertNumberToRomanNumeral(790));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndFour(){
+    public void canConvertNumberEightHundredAndFour(){
         Assert.assertEquals("DCCCIV", romanNumeral.convertNumberToRomanNumeral(804));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndEighteen(){
+    public void canConvertNumberEightHundredAndEighteen(){
         Assert.assertEquals("DCCCXVIII", romanNumeral.convertNumberToRomanNumeral(818));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndThirtyTwo(){
+    public void canConvertNumberEightHundredAndThirtyTwo(){
         Assert.assertEquals("DCCCXXXII", romanNumeral.convertNumberToRomanNumeral(832));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndFortySix(){
+    public void canConvertNumberEightHundredAndFortySix(){
         Assert.assertEquals("DCCCXLVI", romanNumeral.convertNumberToRomanNumeral(846));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndSixty(){
+    public void canConvertNumberEightHundredAndSixty(){
         Assert.assertEquals("DCCCLX", romanNumeral.convertNumberToRomanNumeral(860));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndSeventyFour(){
+    public void canConvertNumberEightHundredAndSeventyFour(){
         Assert.assertEquals("DCCCLXXIV", romanNumeral.convertNumberToRomanNumeral(874));
     }
 
     @Test
-    public void canConvertNumberEightHandredAndEightyEight(){
+    public void canConvertNumberEightHundredAndEightyEight(){
         Assert.assertEquals("DCCCLXXXVIII", romanNumeral.convertNumberToRomanNumeral(888));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndOne(){
+        Assert.assertEquals("CMI", romanNumeral.convertNumberToRomanNumeral(901));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndSeventeen(){
+        Assert.assertEquals("CMXVII", romanNumeral.convertNumberToRomanNumeral(917));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndThirtyThree(){
+        Assert.assertEquals("CMXXXIII", romanNumeral.convertNumberToRomanNumeral(933));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndFortyNine(){
+        Assert.assertEquals("CMXLIX", romanNumeral.convertNumberToRomanNumeral(949));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndSixtyFive(){
+        Assert.assertEquals("CMLXV", romanNumeral.convertNumberToRomanNumeral(965));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndEightyOne(){
+        Assert.assertEquals("CMLXXXI", romanNumeral.convertNumberToRomanNumeral(981));
+    }
+
+    @Test
+    public void canConvertNumberNineHundredAndNinetySeven(){
+        Assert.assertEquals("CMXCVII", romanNumeral.convertNumberToRomanNumeral(997));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandAndFourteen(){
+        Assert.assertEquals("MXIV", romanNumeral.convertNumberToRomanNumeral(1014));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandOneHundredAndThirtyOne(){
+        Assert.assertEquals("MCXXXI", romanNumeral.convertNumberToRomanNumeral(1131));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandTwoHundredAndFortyEight(){
+        Assert.assertEquals("MCCXLVIII", romanNumeral.convertNumberToRomanNumeral(1248));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandThreeHundredAndSixtyFive(){
+        Assert.assertEquals("MCCCLXV", romanNumeral.convertNumberToRomanNumeral(1365));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandFourHundredAndEightyTwo(){
+        Assert.assertEquals("MCDLXXXII", romanNumeral.convertNumberToRomanNumeral(1482));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandFiveHundredAndNinetyNine(){
+        Assert.assertEquals("MDXCIX", romanNumeral.convertNumberToRomanNumeral(1599));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandSevenHundredAndSixteen(){
+        Assert.assertEquals("MDCCXVI", romanNumeral.convertNumberToRomanNumeral(1716));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandEightHundredAndThirtyThree(){
+        Assert.assertEquals("MDCCCXXXIII", romanNumeral.convertNumberToRomanNumeral(1833));
+    }
+
+    @Test
+    public void canConvertNumberOneThousandNineHundredAndFifty(){
+        Assert.assertEquals("MCML", romanNumeral.convertNumberToRomanNumeral(1950));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandSixtySeven(){
+        Assert.assertEquals("MMLXVII", romanNumeral.convertNumberToRomanNumeral(2067));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandOneHundredAndEightFour(){
+        Assert.assertEquals("MMCLXXXIV", romanNumeral.convertNumberToRomanNumeral(2184));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandThreeHundredAndOne(){
+        Assert.assertEquals("MMCCCI", romanNumeral.convertNumberToRomanNumeral(2301));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandFourHundredAndTwentyEight(){
+        Assert.assertEquals("MMCDXXVIII", romanNumeral.convertNumberToRomanNumeral(2428));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandFiveHundredAndFortyFive(){
+        Assert.assertEquals("MMDXLV", romanNumeral.convertNumberToRomanNumeral(2545));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandSixHundredAndSixtyTwo(){
+        Assert.assertEquals("MMDCLXII", romanNumeral.convertNumberToRomanNumeral(2662));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandSevenHundredAndSeventyNine(){
+        Assert.assertEquals("MMDCCLXXIX", romanNumeral.convertNumberToRomanNumeral(2779));
+    }
+
+    @Test
+    public void canConvertNumberTwoThousandEightHundredAndNinetySix(){
+        Assert.assertEquals("MMDCCCXCVI", romanNumeral.convertNumberToRomanNumeral(2896));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandEightAndFourteen(){
+        Assert.assertEquals("MMMXIV", romanNumeral.convertNumberToRomanNumeral(3014));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandOneHundredAndThirtyTwo(){
+        Assert.assertEquals("MMMCXXXII", romanNumeral.convertNumberToRomanNumeral(3132));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandTwoHundredAndFifty(){
+        Assert.assertEquals("MMMCCL", romanNumeral.convertNumberToRomanNumeral(3250));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandThreeHundredAndSixtyEight(){
+        Assert.assertEquals("MMMCCCLXVIII", romanNumeral.convertNumberToRomanNumeral(3368));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandFourHundredAndEightySix(){
+        Assert.assertEquals("MMMCDLXXXVI", romanNumeral.convertNumberToRomanNumeral(3486));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandSixHundredAndFour(){
+        Assert.assertEquals("MMMDCIV", romanNumeral.convertNumberToRomanNumeral(3604));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandSevenHundredAndThirtyThree(){
+        Assert.assertEquals("MMMDCCXXXIII", romanNumeral.convertNumberToRomanNumeral(3733));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandEightHundredAndFiftyOne(){
+        Assert.assertEquals("MMMDCCCLI", romanNumeral.convertNumberToRomanNumeral(3851));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandNineHundredAndSeventy(){
+        Assert.assertEquals("MMMCMLXX", romanNumeral.convertNumberToRomanNumeral(3970));
+    }
+
+    @Test
+    public void canConvertNumberThreeThousandNineHundredAndNinetyNine(){
+        Assert.assertEquals("MMMCMXCIX", romanNumeral.convertNumberToRomanNumeral(3999));
     }
 
 

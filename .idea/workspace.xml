@@ -25,8 +25,8 @@
       <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+            <state relative-caret-position="351">
+              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -35,72 +35,72 @@
       <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="936" column="88" lean-forward="false" selection-start-line="936" selection-start-column="88" selection-end-line="936" selection-end-column="88" />
+            <state relative-caret-position="465">
+              <caret line="31" column="88" lean-forward="false" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
                 <element signature="e#225#226#0" expanded="true" />
-                <element signature="e#584#585#0" expanded="true" />
-                <element signature="e#669#670#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
-                <element signature="e#857#858#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#995#996#0" expanded="true" />
-                <element signature="e#1081#1082#0" expanded="true" />
-                <element signature="e#1132#1133#0" expanded="true" />
-                <element signature="e#1217#1218#0" expanded="true" />
-                <element signature="e#1267#1268#0" expanded="true" />
-                <element signature="e#1353#1354#0" expanded="true" />
-                <element signature="e#1405#1406#0" expanded="true" />
-                <element signature="e#1492#1493#0" expanded="true" />
-                <element signature="e#1544#1545#0" expanded="true" />
-                <element signature="e#1632#1633#0" expanded="true" />
-                <element signature="e#1683#1684#0" expanded="true" />
-                <element signature="e#1769#1770#0" expanded="true" />
-                <element signature="e#1819#1820#0" expanded="true" />
-                <element signature="e#1905#1906#0" expanded="true" />
-                <element signature="e#1958#1959#0" expanded="true" />
-                <element signature="e#2045#2046#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2186#2187#0" expanded="true" />
-                <element signature="e#2385#2386#0" expanded="true" />
-                <element signature="e#2473#2474#0" expanded="true" />
-                <element signature="e#2527#2528#0" expanded="true" />
-                <element signature="e#2614#2615#0" expanded="true" />
-                <element signature="e#2668#2669#0" expanded="true" />
-                <element signature="e#2756#2757#0" expanded="true" />
-                <element signature="e#3101#3102#0" expanded="true" />
-                <element signature="e#3189#3190#0" expanded="true" />
-                <element signature="e#3242#3243#0" expanded="true" />
-                <element signature="e#3329#3330#0" expanded="true" />
-                <element signature="e#4698#4699#0" expanded="true" />
-                <element signature="e#4786#4787#0" expanded="true" />
-                <element signature="e#6163#6164#0" expanded="true" />
-                <element signature="e#6250#6251#0" expanded="true" />
-                <element signature="e#6305#6306#0" expanded="true" />
-                <element signature="e#6393#6394#0" expanded="true" />
-                <element signature="e#7609#7610#0" expanded="true" />
-                <element signature="e#7695#7696#0" expanded="true" />
-                <element signature="e#7750#7751#0" expanded="true" />
-                <element signature="e#7837#7838#0" expanded="true" />
-                <element signature="e#7892#7893#0" expanded="true" />
-                <element signature="e#7980#7981#0" expanded="true" />
-                <element signature="e#8326#8327#0" expanded="true" />
-                <element signature="e#8413#8414#0" expanded="true" />
-                <element signature="e#8468#8469#0" expanded="true" />
-                <element signature="e#8556#8557#0" expanded="true" />
-                <element signature="e#9045#9046#0" expanded="true" />
-                <element signature="e#9132#9133#0" expanded="true" />
-                <element signature="e#9187#9188#0" expanded="true" />
-                <element signature="e#9275#9276#0" expanded="true" />
-                <element signature="e#10493#10494#0" expanded="true" />
-                <element signature="e#10581#10582#0" expanded="true" />
-                <element signature="e#11968#11969#0" expanded="true" />
-                <element signature="e#12057#12058#0" expanded="true" />
-                <element signature="e#13444#13445#0" expanded="true" />
-                <element signature="e#13531#13532#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1127#1128#0" expanded="true" />
+                <element signature="e#1179#1180#0" expanded="true" />
+                <element signature="e#1266#1267#0" expanded="true" />
+                <element signature="e#1317#1318#0" expanded="true" />
+                <element signature="e#1403#1404#0" expanded="true" />
+                <element signature="e#1454#1455#0" expanded="true" />
+                <element signature="e#1539#1540#0" expanded="true" />
+                <element signature="e#1589#1590#0" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1727#1728#0" expanded="true" />
+                <element signature="e#1814#1815#0" expanded="true" />
+                <element signature="e#1866#1867#0" expanded="true" />
+                <element signature="e#1954#1955#0" expanded="true" />
+                <element signature="e#2005#2006#0" expanded="true" />
+                <element signature="e#2091#2092#0" expanded="true" />
+                <element signature="e#2141#2142#0" expanded="true" />
+                <element signature="e#2227#2228#0" expanded="true" />
+                <element signature="e#2280#2281#0" expanded="true" />
+                <element signature="e#2367#2368#0" expanded="true" />
+                <element signature="e#2420#2421#0" expanded="true" />
+                <element signature="e#2508#2509#0" expanded="true" />
+                <element signature="e#2707#2708#0" expanded="true" />
+                <element signature="e#2795#2796#0" expanded="true" />
+                <element signature="e#2849#2850#0" expanded="true" />
+                <element signature="e#2936#2937#0" expanded="true" />
+                <element signature="e#2990#2991#0" expanded="true" />
+                <element signature="e#3078#3079#0" expanded="true" />
+                <element signature="e#3423#3424#0" expanded="true" />
+                <element signature="e#3511#3512#0" expanded="true" />
+                <element signature="e#3564#3565#0" expanded="true" />
+                <element signature="e#3651#3652#0" expanded="true" />
+                <element signature="e#5020#5021#0" expanded="true" />
+                <element signature="e#5108#5109#0" expanded="true" />
+                <element signature="e#6485#6486#0" expanded="true" />
+                <element signature="e#6572#6573#0" expanded="true" />
+                <element signature="e#6627#6628#0" expanded="true" />
+                <element signature="e#6715#6716#0" expanded="true" />
+                <element signature="e#7931#7932#0" expanded="true" />
+                <element signature="e#8017#8018#0" expanded="true" />
+                <element signature="e#8072#8073#0" expanded="true" />
+                <element signature="e#8159#8160#0" expanded="true" />
+                <element signature="e#8214#8215#0" expanded="true" />
+                <element signature="e#8302#8303#0" expanded="true" />
+                <element signature="e#8648#8649#0" expanded="true" />
+                <element signature="e#8735#8736#0" expanded="true" />
+                <element signature="e#8790#8791#0" expanded="true" />
+                <element signature="e#8878#8879#0" expanded="true" />
+                <element signature="e#9367#9368#0" expanded="true" />
+                <element signature="e#9454#9455#0" expanded="true" />
+                <element signature="e#9509#9510#0" expanded="true" />
+                <element signature="e#9597#9598#0" expanded="true" />
+                <element signature="e#10815#10816#0" expanded="true" />
+                <element signature="e#10903#10904#0" expanded="true" />
+                <element signature="e#12290#12291#0" expanded="true" />
+                <element signature="e#12379#12380#0" expanded="true" />
+                <element signature="e#13766#13767#0" expanded="true" />
+                <element signature="e#13853#13854#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -114,6 +114,16 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>public class RomanNumeral \{\n\n\n    private String romanNumeral\;\n\n    public RomanNumeral\(\)\{\n\n    \}\n    public String convertNumberToRomanNumeral\(int number\)\{\n\n        this\.romanNumeral \= \&quot;\&quot; \;\n\n        if \(number \&gt; 0  \&amp;\&amp; number \&lt; 3999\) \{\n            \n        number \= convertThousand\(number\)\;\n        number \= convertNineHandred\(number\)\;\n        number \= convertFiveHandred\(number\)\;\n        number \= convertFourHandred\(number\)\;\n        number \= convertHandred\(number\)\;\n        number \= convertNinety\(number\)\;\n        number \= convertFifty\(number\)\;\n        number \= convertForty\(number\)\;\n        number \= convertTen\(number\)\;\n        number \= convertNine\(number\)\;\n        number \= convertFive\(number\)\;\n        number \= convertFour\(number\)\;\n        convertOneToThree\(number\)\;\n\n        \}else\{\n            romanNumeral \=\&quot;Not Defined\&quot;\;\n        \}\n\n        return romanNumeral\;\n    \}\n\n    public int convertOneToThree\(int number\)\{\n        while \(number \&gt;\= 1\) \{\n            this\.romanNumeral \+\= \&quot;I\&quot;\;\n            number \-\= 1\;\n        \}\n        return number\;\n    \}\n\n    public int convertFour\(int number\)\{\n        while\(number \&gt;\=4\)\{\n            this\.romanNumeral \+\= \&quot;IV\&quot;\;\n            number \-\=4\;\n        \}\n        return number\;\n    \}\n\n    public int convertFive\(int number\)\{\n        while\(number \&gt;\=5\)\{\n            this\.romanNumeral \+\= \&quot;V\&quot;\;\n            number \-\=5\;\n        \}\n        return number\;\n    \}\n\n    public int convertNine\(int number\)\{\n        while\(number \&gt;\=9\)\{\n            this\.romanNumeral \+\= \&quot;IX\&quot;\;\n            number \-\=9\;\n        \}\n        return number\;\n    \}\n\n    public int convertTen\(int number\)\{\n        while\(number \&gt;\=10\)\{\n            this\.romanNumeral \+\= \&quot;X\&quot;\;\n            number \-\=10\;\n        \}\n        return number\;\n    \}\n\n    public int convertForty\(int number\)\{\n        while\(number \&gt;\=40\)\{\n            this\.romanNumeral \+\= \&quot;XL\&quot;\;\n            number \-\=40\;\n        \}\n        return number\;\n    \}\n\n    public int convertFifty\(int number\)\{\n        while\(number \&gt;\=50\)\{\n            this\.romanNumeral \+\= \&quot;L\&quot;\;\n            number \-\=50\;\n        \}\n        return number\;\n    \}\n\n    public int convertNinety\(int number\)\{\n        while\(number \&gt;\=90\)\{\n            this\.romanNumeral \+\= \&quot;XC\&quot;\;\n            number \-\=90\;\n        \}\n        return number\;\n    \}\n\n\n    public int convertHandred\(int number\)\{\n        while\(number \&gt;\=100\)\{\n            this\.romanNumeral \+\= \&quot;C\&quot;\;\n            number \-\=100\;\n        \}\n        return number\;\n    \}\n\n\n    public int convertFourHandred\(int number\)\{\n        while\(number \&gt;\=400\)\{\n            this\.romanNumeral \+\= \&quot;CD\&quot;\;\n            number \-\=400\;\n        \}\n        return number\;\n    \}\n\n    public int convertFiveHandred\(int number\)\{\n        while\(number \&gt;\=500\)\{\n            this\.romanNumeral \+\= \&quot;D\&quot;\;\n            number \-\=500\;\n        \}\n        return number\;\n    \}\n\n\n    public int convertNineHandred\(int number\)\{\n        while\(number \&gt;\=900\)\{\n            this\.romanNumeral \+\= \&quot;CM\&quot;\;\n            number \-\=900\;\n        \}\n        return number\;\n    \}\n\n    public int convertThousand\(int number\)\{\n        while\(number \&gt;\=1000\)\{\n            this\.romanNumeral \+\= \&quot;M\&quot;\;\n            number \-\=1000\;\n        \}\n        return number\;\n    \}\n\n\n\n\n\}\n\n</find>
+      <find>hand</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Hund</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -540,14 +550,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RomanNumeralTest.canConvertNumberNineteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="com.codeclan.codetest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="canConvertNumberNineteen" />
+      <option name="METHOD_NAME" value="canConvertNumberOneHandredAndEightySix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -560,14 +570,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralTest.canConvertNumberOneHundredAndOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="com.codeclan.codetest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="canConvertNumberOneHandredAndEightySix" />
+      <option name="METHOD_NAME" value="canConvertNumberOneHundredAndOne" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -681,19 +691,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHundredAndOne" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHundredAndOne" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
       </list>
     </recent_temporary>
   </component>
@@ -714,18 +724,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 57m 35s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 08m 09s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 25m 37s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 32m 51s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 44m 57s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
@@ -738,11 +736,23 @@
     <history-entry file="RomanNumeralTest - 2018.08.11 at 02h 28m 01s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 02h 36m 33s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 03h 10m 01s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 03h 33m 55s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberOneHandredAndEightySix - 2018.08.11 at 01h 33m 09s.xml">
       <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberOneHandredAndEightySix - 2018.08.11 at 01h 44m 42s.xml">
       <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest_canConvertNumberOneHundredAndOne - 2018.08.11 at 03h 10m 54s.xml">
+      <configuration name="RomanNumeralTest.canConvertNumberOneHundredAndOne" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -757,13 +767,14 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2434663" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854864" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -775,7 +786,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -819,80 +829,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        <state relative-caret-position="351">
+          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="936" column="88" lean-forward="false" selection-start-line="936" selection-start-column="88" selection-end-line="936" selection-end-column="88" />
+        <state relative-caret-position="465">
+          <caret line="31" column="88" lean-forward="false" selection-start-line="31" selection-start-column="88" selection-end-line="31" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
             <element signature="e#225#226#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#669#670#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-            <element signature="e#1132#1133#0" expanded="true" />
-            <element signature="e#1217#1218#0" expanded="true" />
-            <element signature="e#1267#1268#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1405#1406#0" expanded="true" />
-            <element signature="e#1492#1493#0" expanded="true" />
-            <element signature="e#1544#1545#0" expanded="true" />
-            <element signature="e#1632#1633#0" expanded="true" />
-            <element signature="e#1683#1684#0" expanded="true" />
-            <element signature="e#1769#1770#0" expanded="true" />
-            <element signature="e#1819#1820#0" expanded="true" />
-            <element signature="e#1905#1906#0" expanded="true" />
-            <element signature="e#1958#1959#0" expanded="true" />
-            <element signature="e#2045#2046#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2186#2187#0" expanded="true" />
-            <element signature="e#2385#2386#0" expanded="true" />
-            <element signature="e#2473#2474#0" expanded="true" />
-            <element signature="e#2527#2528#0" expanded="true" />
-            <element signature="e#2614#2615#0" expanded="true" />
-            <element signature="e#2668#2669#0" expanded="true" />
-            <element signature="e#2756#2757#0" expanded="true" />
-            <element signature="e#3101#3102#0" expanded="true" />
-            <element signature="e#3189#3190#0" expanded="true" />
-            <element signature="e#3242#3243#0" expanded="true" />
-            <element signature="e#3329#3330#0" expanded="true" />
-            <element signature="e#4698#4699#0" expanded="true" />
-            <element signature="e#4786#4787#0" expanded="true" />
-            <element signature="e#6163#6164#0" expanded="true" />
-            <element signature="e#6250#6251#0" expanded="true" />
-            <element signature="e#6305#6306#0" expanded="true" />
-            <element signature="e#6393#6394#0" expanded="true" />
-            <element signature="e#7609#7610#0" expanded="true" />
-            <element signature="e#7695#7696#0" expanded="true" />
-            <element signature="e#7750#7751#0" expanded="true" />
-            <element signature="e#7837#7838#0" expanded="true" />
-            <element signature="e#7892#7893#0" expanded="true" />
-            <element signature="e#7980#7981#0" expanded="true" />
-            <element signature="e#8326#8327#0" expanded="true" />
-            <element signature="e#8413#8414#0" expanded="true" />
-            <element signature="e#8468#8469#0" expanded="true" />
-            <element signature="e#8556#8557#0" expanded="true" />
-            <element signature="e#9045#9046#0" expanded="true" />
-            <element signature="e#9132#9133#0" expanded="true" />
-            <element signature="e#9187#9188#0" expanded="true" />
-            <element signature="e#9275#9276#0" expanded="true" />
-            <element signature="e#10493#10494#0" expanded="true" />
-            <element signature="e#10581#10582#0" expanded="true" />
-            <element signature="e#11968#11969#0" expanded="true" />
-            <element signature="e#12057#12058#0" expanded="true" />
-            <element signature="e#13444#13445#0" expanded="true" />
-            <element signature="e#13531#13532#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1127#1128#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+            <element signature="e#1266#1267#0" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1403#1404#0" expanded="true" />
+            <element signature="e#1454#1455#0" expanded="true" />
+            <element signature="e#1539#1540#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1727#1728#0" expanded="true" />
+            <element signature="e#1814#1815#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+            <element signature="e#1954#1955#0" expanded="true" />
+            <element signature="e#2005#2006#0" expanded="true" />
+            <element signature="e#2091#2092#0" expanded="true" />
+            <element signature="e#2141#2142#0" expanded="true" />
+            <element signature="e#2227#2228#0" expanded="true" />
+            <element signature="e#2280#2281#0" expanded="true" />
+            <element signature="e#2367#2368#0" expanded="true" />
+            <element signature="e#2420#2421#0" expanded="true" />
+            <element signature="e#2508#2509#0" expanded="true" />
+            <element signature="e#2707#2708#0" expanded="true" />
+            <element signature="e#2795#2796#0" expanded="true" />
+            <element signature="e#2849#2850#0" expanded="true" />
+            <element signature="e#2936#2937#0" expanded="true" />
+            <element signature="e#2990#2991#0" expanded="true" />
+            <element signature="e#3078#3079#0" expanded="true" />
+            <element signature="e#3423#3424#0" expanded="true" />
+            <element signature="e#3511#3512#0" expanded="true" />
+            <element signature="e#3564#3565#0" expanded="true" />
+            <element signature="e#3651#3652#0" expanded="true" />
+            <element signature="e#5020#5021#0" expanded="true" />
+            <element signature="e#5108#5109#0" expanded="true" />
+            <element signature="e#6485#6486#0" expanded="true" />
+            <element signature="e#6572#6573#0" expanded="true" />
+            <element signature="e#6627#6628#0" expanded="true" />
+            <element signature="e#6715#6716#0" expanded="true" />
+            <element signature="e#7931#7932#0" expanded="true" />
+            <element signature="e#8017#8018#0" expanded="true" />
+            <element signature="e#8072#8073#0" expanded="true" />
+            <element signature="e#8159#8160#0" expanded="true" />
+            <element signature="e#8214#8215#0" expanded="true" />
+            <element signature="e#8302#8303#0" expanded="true" />
+            <element signature="e#8648#8649#0" expanded="true" />
+            <element signature="e#8735#8736#0" expanded="true" />
+            <element signature="e#8790#8791#0" expanded="true" />
+            <element signature="e#8878#8879#0" expanded="true" />
+            <element signature="e#9367#9368#0" expanded="true" />
+            <element signature="e#9454#9455#0" expanded="true" />
+            <element signature="e#9509#9510#0" expanded="true" />
+            <element signature="e#9597#9598#0" expanded="true" />
+            <element signature="e#10815#10816#0" expanded="true" />
+            <element signature="e#10903#10904#0" expanded="true" />
+            <element signature="e#12290#12291#0" expanded="true" />
+            <element signature="e#12379#12380#0" expanded="true" />
+            <element signature="e#13766#13767#0" expanded="true" />
+            <element signature="e#13853#13854#0" expanded="true" />
           </folding>
         </state>
       </provider>
