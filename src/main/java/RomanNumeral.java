@@ -22,13 +22,10 @@ public class RomanNumeral {
 //            number-=900;
 //        }
 //
-//        while(number>=500){
-//            romanNumeral += "D";
-//            number-=500;
-//        }
+//
 //
 
-
+        number = convertFiveHandred(number);
         number = convertFourHandred(number);
         number = convertHandred(number);
         number = convertNinety(number);
@@ -125,6 +122,14 @@ public class RomanNumeral {
         while(number >=400){
             this.romanNumeral += "CD";
             number -=400;
+        }
+        return number;
+    }
+
+    public int convertFiveHandred(int number){
+        while(number >=500){
+            this.romanNumeral += "D";
+            number -=500;
         }
         return number;
     }

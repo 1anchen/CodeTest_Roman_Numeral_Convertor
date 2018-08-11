@@ -757,8 +757,185 @@ public class RomanNumeralTest {
         Assert.assertEquals("CDXCIII", romanNumeral.convertNumberToRomanNumeral(493));
     }
 
+    @Test
+    public void canConvertNumberFiveHandredAndFour(){
+        Assert.assertEquals("DIV", romanNumeral.convertNumberToRomanNumeral(504));
+    }
 
+    @Test
+    public void canConvertNumberFiveHandredAndFifteen(){
+        Assert.assertEquals("DXV", romanNumeral.convertNumberToRomanNumeral(515));
+    }
 
+    @Test
+    public void canConvertNumberFiveHandredAndTwentySix(){
+        Assert.assertEquals("DXXVI", romanNumeral.convertNumberToRomanNumeral(526));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndThirtySeven(){
+        Assert.assertEquals("DXXXVII", romanNumeral.convertNumberToRomanNumeral(537));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndFortyEight(){
+        Assert.assertEquals("DXLVIII", romanNumeral.convertNumberToRomanNumeral(548));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndFiftyNine(){
+        Assert.assertEquals("DLIX", romanNumeral.convertNumberToRomanNumeral(559));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndSixtyOne(){
+        Assert.assertEquals("DLXI", romanNumeral.convertNumberToRomanNumeral(561));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndSeventyTwo(){
+        Assert.assertEquals("DLXXII", romanNumeral.convertNumberToRomanNumeral(572));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndEightyThree(){
+        Assert.assertEquals("DLXXXIII", romanNumeral.convertNumberToRomanNumeral(583));
+    }
+
+    @Test
+    public void canConvertNumberFiveHandredAndNinetyFour(){
+        Assert.assertEquals("DXCIV", romanNumeral.convertNumberToRomanNumeral(594));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndFive(){
+        Assert.assertEquals("DCV", romanNumeral.convertNumberToRomanNumeral(605));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndSeventeen(){
+        Assert.assertEquals("DCXVII", romanNumeral.convertNumberToRomanNumeral(617));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndTwentyNine(){
+        Assert.assertEquals("DCXXIX", romanNumeral.convertNumberToRomanNumeral(629));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndThirtyEight(){
+        Assert.assertEquals("DCXXXVIII", romanNumeral.convertNumberToRomanNumeral(638));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndFortySix(){
+        Assert.assertEquals("DCXLVI", romanNumeral.convertNumberToRomanNumeral(646));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndFiftyFour(){
+        Assert.assertEquals("DCLIV", romanNumeral.convertNumberToRomanNumeral(654));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndSixtyTwo(){
+        Assert.assertEquals("DCLXII", romanNumeral.convertNumberToRomanNumeral(662));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndSeventyOne(){
+        Assert.assertEquals("DCLXXI", romanNumeral.convertNumberToRomanNumeral(671));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndEightyThree(){
+        Assert.assertEquals("DCLXXXIII", romanNumeral.convertNumberToRomanNumeral(683));
+    }
+
+    @Test
+    public void canConvertNumberSixHandredAndNinetyFive(){
+        Assert.assertEquals("DCXCV", romanNumeral.convertNumberToRomanNumeral(695));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndSeven(){
+        Assert.assertEquals("DCCVII", romanNumeral.convertNumberToRomanNumeral(707));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndNineteen(){
+        Assert.assertEquals("DCCXIX", romanNumeral.convertNumberToRomanNumeral(719));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndTwentyTwo(){
+        Assert.assertEquals("DCCXXII", romanNumeral.convertNumberToRomanNumeral(722));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndThirtyFive(){
+        Assert.assertEquals("DCCXXXV", romanNumeral.convertNumberToRomanNumeral(735));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndFortyEight(){
+        Assert.assertEquals("DCCXLVIII", romanNumeral.convertNumberToRomanNumeral(748));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndFiftyOne(){
+        Assert.assertEquals("DCCLI", romanNumeral.convertNumberToRomanNumeral(751));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndSixtyFour(){
+        Assert.assertEquals("DCCLXIV", romanNumeral.convertNumberToRomanNumeral(764));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndSeventySeven(){
+        Assert.assertEquals("DCCLXXVII", romanNumeral.convertNumberToRomanNumeral(777));
+    }
+
+    @Test
+    public void canConvertNumberSevenHandredAndNinety(){
+        Assert.assertEquals("DCCXC", romanNumeral.convertNumberToRomanNumeral(790));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndFour(){
+        Assert.assertEquals("DCCCIV", romanNumeral.convertNumberToRomanNumeral(804));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndEighteen(){
+        Assert.assertEquals("DCCCXVIII", romanNumeral.convertNumberToRomanNumeral(818));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndThirtyTwo(){
+        Assert.assertEquals("DCCCXXXII", romanNumeral.convertNumberToRomanNumeral(832));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndFortySix(){
+        Assert.assertEquals("DCCCXLVI", romanNumeral.convertNumberToRomanNumeral(846));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndSixty(){
+        Assert.assertEquals("DCCCLX", romanNumeral.convertNumberToRomanNumeral(860));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndSeventyFour(){
+        Assert.assertEquals("DCCCLXXIV", romanNumeral.convertNumberToRomanNumeral(874));
+    }
+
+    @Test
+    public void canConvertNumberEightHandredAndEightyEight(){
+        Assert.assertEquals("DCCCLXXXVIII", romanNumeral.convertNumberToRomanNumeral(888));
+    }
 
 
 }

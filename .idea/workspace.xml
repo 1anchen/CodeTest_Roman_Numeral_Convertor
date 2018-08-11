@@ -25,8 +25,8 @@
       <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="287">
+              <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="756" column="83" lean-forward="false" selection-start-line="756" selection-start-column="83" selection-end-line="756" selection-end-column="83" />
+            <state relative-caret-position="283">
+              <caret line="936" column="88" lean-forward="false" selection-start-line="936" selection-start-column="88" selection-end-line="936" selection-end-column="88" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -714,9 +714,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 47m 20s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 57m 35s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
@@ -736,6 +733,9 @@
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 58m 49s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 02h 28m 01s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberOneHandredAndEightySix - 2018.08.11 at 01h 33m 09s.xml">
@@ -819,16 +819,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="287">
+          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="756" column="83" lean-forward="false" selection-start-line="756" selection-start-column="83" selection-end-line="756" selection-end-column="83" />
+        <state relative-caret-position="283">
+          <caret line="936" column="88" lean-forward="false" selection-start-line="936" selection-start-column="88" selection-end-line="936" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
