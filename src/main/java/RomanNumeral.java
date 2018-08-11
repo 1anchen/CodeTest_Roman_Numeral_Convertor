@@ -32,17 +32,8 @@ public class RomanNumeral {
 //            number-=400;
 //        }
 //
-//        while(number>=100){
-//            romanNumeral += "C";
-//            number-=100;
-//        }
-
-
-
-
-
-
-
+//
+        number = convertHandred(number);
         number = convertNinety(number);
         number = convertFifty(number);
         number = convertForty(number);
@@ -123,6 +114,14 @@ public class RomanNumeral {
         return number;
     }
 
+
+    public int convertHandred(int number){
+        while(number >=100){
+            this.romanNumeral += "C";
+            number -=100;
+        }
+        return number;
+    }
 
 
 

@@ -25,8 +25,8 @@
       <file leaf-file-name="RomanNumeral.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-868">
-              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="-2">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -35,8 +35,8 @@
       <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5631">
-              <caret line="516" column="78" lean-forward="false" selection-start-line="516" selection-start-column="78" selection-end-line="516" selection-end-column="78" />
+            <state relative-caret-position="236">
+              <caret line="706" column="82" lean-forward="false" selection-start-line="706" selection-start-column="82" selection-end-line="706" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -540,14 +540,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RomanNumeralTest.canConvertNumberEighteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralTest.canConvertNumberNineteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="com.codeclan.codetest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="canConvertNumberEighteen" />
+      <option name="METHOD_NAME" value="canConvertNumberNineteen" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -560,14 +560,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="RomanNumeralTest.canConvertNumberNineteen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="com.codeclan.codetest_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RomanNumeralTest" />
-      <option name="METHOD_NAME" value="canConvertNumberNineteen" />
+      <option name="METHOD_NAME" value="canConvertNumberOneHandredAndEightySix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -681,19 +681,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberEighteen" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberEighteen" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberOneHandredAndEightySix" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwentyOne" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberTwenty" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.RomanNumeralTest.canConvertNumberNineteen" />
       </list>
     </recent_temporary>
   </component>
@@ -714,12 +714,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 31m 06s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 39m 23s.xml">
-      <configuration name="RomanNumeralTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 39m 40s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
@@ -732,17 +726,23 @@
     <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 08m 09s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_canConvertNumberEighteen - 2018.08.11 at 00h 25m 32s.xml">
-      <configuration name="RomanNumeralTest.canConvertNumberEighteen" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 25m 37s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_canConvertNumberNineteen - 2018.08.11 at 00h 26m 18s.xml">
-      <configuration name="RomanNumeralTest.canConvertNumberNineteen" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 32m 51s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_canConvertNumberTwenty - 2018.08.11 at 00h 26m 46s.xml">
-      <configuration name="RomanNumeralTest.canConvertNumberTwenty" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 44m 57s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RomanNumeralTest_canConvertNumberTwentyOne - 2018.08.11 at 00h 27m 16s.xml">
-      <configuration name="RomanNumeralTest.canConvertNumberTwentyOne" configurationId="JUnit" />
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 01h 48m 27s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest_canConvertNumberOneHandredAndEightySix - 2018.08.11 at 01h 33m 09s.xml">
+      <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RomanNumeralTest_canConvertNumberOneHandredAndEightySix - 2018.08.11 at 01h 44m 42s.xml">
+      <configuration name="RomanNumeralTest.canConvertNumberOneHandredAndEightySix" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -819,16 +819,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/RomanNumeral.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-868">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="-2">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5631">
-          <caret line="516" column="78" lean-forward="false" selection-start-line="516" selection-start-column="78" selection-end-line="516" selection-end-column="78" />
+        <state relative-caret-position="236">
+          <caret line="706" column="82" lean-forward="false" selection-start-line="706" selection-start-column="82" selection-end-line="706" selection-end-column="82" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
