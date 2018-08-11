@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="734015a0-45a1-4666-a303-3d8bb743ba85" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/test/java/RomanNumeralTest.java" afterPath="$PROJECT_DIR$/src/test/java/RomanNumeralTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +34,8 @@
       <file leaf-file-name="RomanNumeralTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="321" column="76" lean-forward="false" selection-start-line="321" selection-start-column="76" selection-end-line="321" selection-end-column="76" />
+            <state relative-caret-position="287">
+              <caret line="466" column="80" lean-forward="false" selection-start-line="466" selection-start-column="80" selection-end-line="466" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#176#177#0" expanded="true" />
@@ -95,8 +94,12 @@
                 <element signature="e#9132#9133#0" expanded="true" />
                 <element signature="e#9187#9188#0" expanded="true" />
                 <element signature="e#9275#9276#0" expanded="true" />
-                <element signature="e#10491#10492#0" expanded="true" />
-                <element signature="e#10577#10578#0" expanded="true" />
+                <element signature="e#10493#10494#0" expanded="true" />
+                <element signature="e#10581#10582#0" expanded="true" />
+                <element signature="e#11968#11969#0" expanded="true" />
+                <element signature="e#12057#12058#0" expanded="true" />
+                <element signature="e#13445#13446#0" expanded="true" />
+                <element signature="e#13533#13534#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -722,6 +725,9 @@
     <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 47m 20s.xml">
       <configuration name="RomanNumeralTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RomanNumeralTest - 2018.08.11 at 00h 57m 35s.xml">
+      <configuration name="RomanNumeralTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberEighteen - 2018.08.11 at 00h 25m 32s.xml">
       <configuration name="RomanNumeralTest.canConvertNumberEighteen" configurationId="JUnit" />
     </history-entry>
@@ -730,9 +736,6 @@
     </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberSeventeen - 2018.08.11 at 00h 24m 53s.xml">
       <configuration name="RomanNumeralTest.canConvertNumberSeventeen" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RomanNumeralTest_canConvertNumberSixteen - 2018.08.11 at 00h 24m 29s.xml">
-      <configuration name="RomanNumeralTest.canConvertNumberSixteen" configurationId="JUnit" />
     </history-entry>
     <history-entry file="RomanNumeralTest_canConvertNumberTwenty - 2018.08.11 at 00h 26m 46s.xml">
       <configuration name="RomanNumeralTest.canConvertNumberTwenty" configurationId="JUnit" />
@@ -823,8 +826,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RomanNumeralTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="321" column="76" lean-forward="false" selection-start-line="321" selection-start-column="76" selection-end-line="321" selection-end-column="76" />
+        <state relative-caret-position="287">
+          <caret line="466" column="80" lean-forward="false" selection-start-line="466" selection-start-column="80" selection-end-line="466" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
@@ -883,8 +886,12 @@
             <element signature="e#9132#9133#0" expanded="true" />
             <element signature="e#9187#9188#0" expanded="true" />
             <element signature="e#9275#9276#0" expanded="true" />
-            <element signature="e#10491#10492#0" expanded="true" />
-            <element signature="e#10577#10578#0" expanded="true" />
+            <element signature="e#10493#10494#0" expanded="true" />
+            <element signature="e#10581#10582#0" expanded="true" />
+            <element signature="e#11968#11969#0" expanded="true" />
+            <element signature="e#12057#12058#0" expanded="true" />
+            <element signature="e#13445#13446#0" expanded="true" />
+            <element signature="e#13533#13534#0" expanded="true" />
           </folding>
         </state>
       </provider>
