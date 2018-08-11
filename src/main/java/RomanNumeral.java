@@ -36,14 +36,14 @@ public class RomanNumeral {
 //            romanNumeral += "C";
 //            number-=100;
 //        }
-//
-//        while(number>=90){
-//            romanNumeral += "XC";
-//            number-=90;
-//        }
-//
-//
 
+
+
+
+
+
+
+        number = convertNinety(number);
         number = convertFifty(number);
         number = convertForty(number);
         number = convertTen(number);
@@ -111,6 +111,14 @@ public class RomanNumeral {
         while(number >=50){
             this.romanNumeral += "L";
             number -=50;
+        }
+        return number;
+    }
+
+    public int convertNinety(int number){
+        while(number >=90){
+            this.romanNumeral += "XC";
+            number -=90;
         }
         return number;
     }

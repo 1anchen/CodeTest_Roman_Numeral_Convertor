@@ -468,8 +468,53 @@ public class RomanNumeralTest {
     }
 
     @Test
-    public void canConvertNumberSeventy(){
-        Assert.assertEquals("LXX", romanNumeral.convertNumberToRomanNumeral(70));
+    public void canConvertNumberNinety(){
+        Assert.assertEquals("XC", romanNumeral.convertNumberToRomanNumeral(90));
+    }
+
+    @Test
+    public void canConvertNumberNinetyOne(){
+        Assert.assertEquals("XCI", romanNumeral.convertNumberToRomanNumeral(91));
+    }
+
+    @Test
+    public void canConvertNumberNinetyTwo(){
+        Assert.assertEquals("XCII", romanNumeral.convertNumberToRomanNumeral(92));
+    }
+
+    @Test
+    public void canConvertNumberNinetyThree(){
+        Assert.assertEquals("XCIII", romanNumeral.convertNumberToRomanNumeral(93));
+    }
+
+    @Test
+    public void canConvertNumberNinetyFour(){
+        Assert.assertEquals("XCIV", romanNumeral.convertNumberToRomanNumeral(94));
+    }
+
+    @Test
+    public void canConvertNumberNinetyFive(){
+        Assert.assertEquals("XCV", romanNumeral.convertNumberToRomanNumeral(95));
+    }
+
+    @Test
+    public void canConvertNumberNinetySix(){
+        Assert.assertEquals("XCVI", romanNumeral.convertNumberToRomanNumeral(96));
+    }
+
+    @Test
+    public void canConvertNumberNinetySeven(){
+        Assert.assertEquals("XCVII", romanNumeral.convertNumberToRomanNumeral(97));
+    }
+
+    @Test
+    public void canConvertNumberNinetyEight(){
+        Assert.assertEquals("XCVIII", romanNumeral.convertNumberToRomanNumeral(98));
+    }
+
+    @Test
+    public void canConvertNumberNinetyNine(){
+        Assert.assertEquals("XCIX", romanNumeral.convertNumberToRomanNumeral(99));
     }
 
 
